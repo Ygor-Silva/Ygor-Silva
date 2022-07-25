@@ -45,7 +45,7 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Ygor](https://img.shields.io/badge/-YgorSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU-LINKEDIN/)](LINK-DO-LINKEDIN/)
+[![Linkedin: Ygor](https://img.shields.io/badge/-YgorSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ygor-silva-077234246//)](https://www.linkedin.com/in/ygor-silva-077234246//)
 [![Instagram: Ygorsilvat](https://img.shields.io/badge/-@ygorsilvat-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ygorsilvat/)](https://instagram.com/Ygorsilvat/)
 [![Gmail Badge](https://img.shields.io/badge/-Ygor-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygor-1996@hotmail.com)](mailto:ygor-1996@hotmail.com)
 [![GitHub Ygor Silva]( https://img.shields.io/github/followers/Ygor-Silva?label=follow&style=social)](https://github.com/Ygor-Silva)
