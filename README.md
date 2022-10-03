@@ -1,7 +1,6 @@
 <h2>Hi, I'm Ygor Silva! </h2>
 
 
-
    <h3> 🕵🏽‍♂️ &nbsp;About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -13,40 +12,35 @@
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
-**Application and Data**
-
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <br/>
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
----
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ygor-Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg">
+  <img align="center" alt="Ygor-mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
+  <img align="center" alt="Ygor-Git" height="30" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg">
+  <img align="center" alt="Ygor-GitHub" height="30" width="40" src="https://icongr.am/devicon/github-original-wordmark.svg">
+  <img align="center" alt="Ygor-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg">
+  <img align="center" alt="Ygor-Ubuntu" height="30" width="40" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/simple/amazonaws.svg">                                                                  
+   
+##
 
 ### 📈 Github Statistics
 
-<a href="https://github.com/Ygor-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ygor-Silva&theme=dark&show_icons=true" />
-</a>
+<div>
+  <a href="https://github.com/Ygor-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ygor-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygor-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Ygor](https://img.shields.io/badge/-YgorSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ygor-silva-077234246//)](https://www.linkedin.com/in/ygor-silva-077234246//)
-[![Instagram: Ygorsilvat](https://img.shields.io/badge/-@ygorsilvat-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ygorsilvat/)](https://instagram.com/Ygorsilvat/)
-[![Gmail Badge](https://img.shields.io/badge/-Ygor-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygor-1996@hotmail.com)](mailto:ygor-1996@hotmail.com)
-[![GitHub Ygor Silva]( https://img.shields.io/github/followers/Ygor-Silva?label=follow&style=social)](https://github.com/Ygor-Silva)
+  <a href="https://www.linkedin.com/in/ygor-silva-developer" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg" target="_blank"></a>
+<a href="https://instagram.com/Ygorsilvat" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/material/instagram.svg" target="_blank"></a>
+<a href = "mailto:ygor-1996@hotmail.com" target="_blank"><img align="center" alt="Ygor-AWS" height="30" width="40" src="https://icongr.am/material/email-edit.svg" target="_blank"></a>
 
+![Snake animation](https://github.com/Ygor-Silva/rafaballerini/blob/output/github-contribution-grid-snake.svg)
