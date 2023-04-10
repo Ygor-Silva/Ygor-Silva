@@ -5,7 +5,6 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying in Full-Stack Developer in Python at <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia (EBAC)</a>.
-  - 💼 &nbsp; Work in <a href="https://www.mercedes-benz.com/en/">Mercedes-Benz</a>
   - 🌱 &nbsp; Learning more about Fullstack technologies.
 
 ---
