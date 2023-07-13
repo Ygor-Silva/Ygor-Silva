@@ -5,6 +5,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying in Full-Stack Developer in Python at <a href="https://ebaconline.com.br/">Escola Britânica de Artes Criativas e Tecnologia (EBAC)</a>.
+  - 🎓 &nbsp; Studying in Systems analysis and development at UNIVERSIDADE ESTÁCIO DE SÁ - UNESA.
   - 🌱 &nbsp; Learning more about Fullstack technologies.
 
 ---
