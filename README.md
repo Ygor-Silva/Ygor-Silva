@@ -14,6 +14,14 @@
 
 ---
 
+### 🎯 Professional Focus
+
+- 📈 **Data-Driven mindset:** Transforming large volumes of data into strategic dashboards that reduce response time and optimize SLAs.
+- 🤖 **Efficiency through Automation:** Reducing manual tasks through intelligent workflows in Power Automate and Python scripts.
+- 🏗️ **Modern Architecture:** Construindo sistemas escaláveis utilizando stacks modernas como Supabase, Node.js e Vercel.
+
+---
+
 ### 🚀 My Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -37,8 +45,8 @@
 
 ### 💼 Featured Projects
 
-* **Support Process Optimization with BI:** Developed a Power BI dashboard to automate KPI monitoring, using **SQL/KQL**, **Python (Pandas)**, and **DAX**, improving resolution speed by 15%[cite: 23, 54, 55, 58].
-* **Automation & Communication Workflow:** Built an automated routing process with **Power Automate** and API concepts to centralize requests and reduce resolution time[cite: 60, 61, 63, 64].
+* **Support Process Optimization with BI:** Developed a Power BI dashboard to automate KPI monitoring, using **SQL/KQL**, **Python (Pandas)**, and **DAX**, improving resolution speed by 15%.
+* **Automation & Communication Workflow:** Built an automated routing process with **Power Automate** and API concepts to centralize requests and reduce resolution time.
 
 ---
 
