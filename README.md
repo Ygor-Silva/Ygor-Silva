@@ -45,8 +45,29 @@
 
 ### 💼 Featured Projects
 
-* **Support Process Optimization with BI:** Developed a Power BI dashboard to automate KPI monitoring, using **SQL/KQL**, **Python (Pandas)**, and **DAX**, improving resolution speed by 15%.
-* **Automation & Communication Workflow:** Built an automated routing process with **Power Automate** and API concepts to centralize requests and reduce resolution time.
+#### 🏢 Tecnolimp: internal platforms
+| Project | What it delivers | Stack |
+|---|---|---|
+| 🧠 **Knowledge & Management Intelligence** 🔒 | Corporate AI copilot: natural-language search over policies and processes, plus executive questions on HR and ERP data, answered with source citations | Next.js · NestJS · TypeScript · Oracle |
+| 🚚 **Rodaz** 🔒 | Multi-tenant, white-label fleet management SaaS (vehicles, drivers, bookings, inspections, maintenance, fuel and costs) with tenant isolation enforced and tested at the database layer | Next.js 16 · Supabase (RLS) · Zod · Vitest |
+| 📱 **Incident Management** 🔒 | Mobile-first PWA for managers to log employee incidents in the field; clean architecture ready to swap in ERP backends without rewriting the core | Next.js · Supabase · PWA |
+| 🗂️ **Activity Log & Request Desk** 🔒 | Weekly activity log plus a public request form with automatic priority (frequency × impact), a kanban workflow and an auto-generated weekly digest | JavaScript · Supabase (RLS) |
+
+#### 🤖 AI & developer tooling
+| Project | What it delivers | Stack |
+|---|---|---|
+| 👥 **PY Automações AI Team** 🔒 | Claude Code plugin with 11 AI agents (manager, backend, frontend, data, QA) that plan, build, review and ship projects end to end | Claude Code · TypeScript |
+| 📓 **Task Journal for Claude Code** 🔒 | Live project tracker inside Claude Code: animated progress, pace-based delivery forecast, one-click status report for managers, and security and LGPD gauges; regression-tested against XSS | TypeScript · SVG/SMIL |
+
+#### 💰 Products & data
+| Project | What it delivers | Stack |
+|---|---|---|
+| 🪙 **[Kerdos](https://github.com/Ygor-Silva/kerdos__)** | Financial intelligence platform: end-of-month balance forecast (linear regression), 50/30/20 breakdown, AI assistant with server-side keys, PDF reports | React · Express · Gemini |
+| 🌌 **[Portfolio](https://ygor-teixeira-portfolio.vercel.app/)** | Bilingual (PT/EN) portfolio with a built-in AI assistant | Next.js 15 · React 19 · Gemini |
+| 📊 **Support BI** | Power BI dashboard automating KPI monitoring; **15% faster resolution** | SQL/KQL · Python · DAX |
+| ⚙️ **Request Routing** | Automated routing that centralizes requests and cuts resolution time | Power Automate · APIs |
+
+<sub>🔒 Private or internal repository: code available on request.</sub>
 
 ---
 
